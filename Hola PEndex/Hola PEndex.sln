@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hola PEndex", "Hola PEndex\Hola PEndex.csproj", "{35505E5A-6A49-494B-813D-45B9EC98F36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35505E5A-6A49-494B-813D-45B9EC98F36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35505E5A-6A49-494B-813D-45B9EC98F36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35505E5A-6A49-494B-813D-45B9EC98F36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35505E5A-6A49-494B-813D-45B9EC98F36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6708EFF-36A7-4C2E-B67D-5A391A3ADDB7}
+	EndGlobalSection
+EndGlobal
